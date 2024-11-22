@@ -1,0 +1,14 @@
+body {
+	background-color: #a3b18a ;
+	color: black;
+	font-family: Monaco, monospace;
+}
+
+img {
+	width: 270px;
+}
+
+.container {
+	background-color: white;
+	padding: 9px;
+}
