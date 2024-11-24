@@ -5,8 +5,9 @@ body {
 }
 
 h1 {
-	animation: wobble;
-        animation-duration: 10s;
+	text-align: center;
+	animation: rollIn;
+        animation-duration: 2s;
 }
 
 img {
